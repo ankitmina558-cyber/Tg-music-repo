@@ -14,3 +14,4 @@ psutil
 pillow
 lxml
 py-tgcalls
+py-yt
