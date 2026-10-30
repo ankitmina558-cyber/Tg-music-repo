@@ -9,3 +9,8 @@ dnspython
 GitPython
 heroku3
 beautifulsoup4
+yt-dlp
+psutil
+pillow
+lxml
+py-tgcalls
