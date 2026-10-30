@@ -7,3 +7,4 @@ motor
 pymongo
 dnspython
 GitPython
+heroku3
