@@ -4,4 +4,6 @@ python-dotenv
 aiohttp
 requests
 motor
-pymongo[srv]
+pymongo
+dnspython
+GitPython
