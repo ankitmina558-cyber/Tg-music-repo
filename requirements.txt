@@ -1,2 +1,7 @@
 pyrogram
 tgcrypto
+python-dotenv
+aiohttp
+requests
+motor
+pymongo[srv]
