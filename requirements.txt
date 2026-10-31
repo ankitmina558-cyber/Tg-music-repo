@@ -24,3 +24,4 @@ unidecode
 pytz
 uvloop
 PyYAML
+spotipy
